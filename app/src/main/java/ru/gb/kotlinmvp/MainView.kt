@@ -1,5 +1,5 @@
 package ru.gb.kotlinmvp
 
 interface MainView {
-    fun setText(counter: String, id: Int)
+    fun setCounterText(counter: String, id: Int)
 }
